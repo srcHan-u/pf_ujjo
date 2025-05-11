@@ -1,28 +1,33 @@
-### 1.Framework / Bundler
+### 1. Framework / Bundler
 
 * Next.js + TypeScript
 
-### 2. Стилизация
+### 2. Stylization
 
 - TailwindCSS
 
-### 3. Лейаут и адаптивность
+### 3. Layout and adaptability
 
 - **CSS Grid + Flexbox**
 
-### 4. Изображения
+### 4. Images
 
 - **next/image**
 
-### 5. Анимации и интерактив
+### 5.Animations and interactivity
 
-### 6. Контент и данные
+- Framer Motion
+- React-Intersection-Observer (или встроенный хук Next)
 
-### 7. Иконки и векторные элементы
+### 6.Content and data
+
+- Headless CMS (если нужно — Sanity, Strapi, Contentful)
+
+### 7. Icons and vector elements
 
 - SVG-спрайты или React-компоненты
 - Lucide
 
-### 8. Сборка и деплой
+### 8. Build and Deploy
 
 - Vercel
